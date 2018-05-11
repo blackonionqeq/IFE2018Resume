@@ -1,0 +1,26 @@
+body{
+	font-size:10px;
+}
+
+h1{
+	float:left;
+	font-size: 4em;
+	text-align: center;
+	padding-top: 60px;
+	margin-right:40px;
+	margin-top: -50px;
+	margin-left:30px;
+	color:white;
+	background-color: #4cb3ff;
+	width:200px;
+	height:950px;
+}
+
+h2{
+	margin-top: 40px;
+	font-size: 3em;
+}
+
+p{
+	font-size: 2em;
+}
